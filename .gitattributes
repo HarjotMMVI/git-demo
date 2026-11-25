@@ -1,0 +1,5 @@
+*.png binary
+*.jpg binary
+*.png diff=exif
+test/ export-ignore
+package-lock.json merge=ours
